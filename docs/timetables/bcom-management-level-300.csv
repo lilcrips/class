@@ -1,14 +1,14 @@
 Day,Start,End,Code,Title,Room,Lecturer
 Monday,9:30 AM,11:30 AM,ADM301,International Business,New Lecture Theater (NLT 10),Dr. Mark Bigool
-Monday,1:30 PM,2:30 PM,SBU307,Intro to Cost & Management Accounting,—,Patrick Darkwa
+Monday,1:30 PM,2:30 PM,SBU307,Intro to Cost & Management Accounting,C.A. Ackah Lecture Complex (CALC 2),Patrick Darkwa
 Monday,4:30 PM,6:30 PM,SBU303,Company and Partnership Law,Sandwich Lecture Theater (SWLT 17),Kenneth Atsu Dogbey
-Monday,7:30 PM,8:30 PM,SBU307,Intro to Cost & Management Accounting,—,Patrick Darkwa
-Wednesday,6:30 PM,7:30 PM,ADM305,Public Relations,—,Dr. Mark Bigool
-Thursday,8:30 AM,10:30 AM,SBU307,Intro to Cost & Management Accounting (Grp 2),Science Roof Top (SRT 1),Patrick Darkwa
-Thursday,10:30 AM,11:30 AM,ADM301,International Business,—,Dr. Mark Bigool
+Monday,7:30 PM,8:30 PM,SBU307,Intro to Cost & Management Accounting,C.A. Ackah Lecture Complex (CALC 2),Patrick Darkwa
+Wednesday,6:30 PM,7:30 PM,ADM305,Public Relations,Sandwich Lecture Theater (SWLT 10),Dr. Mark Bigool
+Thursday,8:30 AM,10:30 AM,SBU307,Intro to Cost & Management Accounting (Grp 2),Sandwich Lecture Theater (SWLT 11),Patrick Darkwa
+Thursday,10:30 AM,11:30 AM,ADM301,International Business,Sandwich Lecture Theater (SWLT 8),Dr. Mark Bigool
 Thursday,12:30 PM,2:30 PM,SBU301,Operations Management,Sandwich Lecture Theater (SWLT 18),Priscilla Oppong
 Thursday,6:30 PM,7:30 PM,SBU301,Operations Management,—,Priscilla Oppong
 Friday,8:30 AM,10:30 AM,SBU305,Managerial Economics,Large Lecture Theater (LLT),Dr. Emmanuel Kwakye Amoah
 Friday,10:30 AM,12:30 PM,SBU307,Intro to Cost & Management Accounting (Grp 1),C.A. Ackah Lecture Complex (CALC 2),Patrick Darkwa
-Friday,5:30 PM,6:30 PM,SBU305,Managerial Economics,—,Dr. Emmanuel Kwakye Amoah
+Friday,5:30 PM,6:30 PM,SBU305,Managerial Economics,Sandwich Lecture Theater (SWLT 10),Dr. Emmanuel Kwakye Amoah
 Friday,6:30 PM,8:30 PM,ADM305,Public Relations,Sandwich Lecture Theater (SWLT 8),Dr. Mark Bigool
